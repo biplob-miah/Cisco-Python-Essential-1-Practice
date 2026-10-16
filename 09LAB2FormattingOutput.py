@@ -1,0 +1,20 @@
+
+print("    *")
+print("   *  *")
+print("  *    *")
+print(" *      *")
+print("***    ***")
+print("  *    *")
+print("  *    *")
+print("  ******")
+
+
+print("doubled:")
+print("    * "*2)
+print("   *  * "*2)
+print("  *    * "*2)
+print(" *      * "*2)
+print("***    *** "*2)
+print("  *    * "*2)
+print("  *    * "*2)
+print("  ****** "*2)
